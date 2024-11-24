@@ -1,5 +1,5 @@
 // GitHub OAuth Configuration
-const clientId = 'YOUR_GITHUB_CLIENT_ID'; // You'll need to replace this with your GitHub OAuth App client ID
+const clientId = 'Ov23li1MlD8doGKN6j5M'; // You'll need to replace this with your GitHub OAuth App client ID
 const redirectUri = window.location.href;
 const scope = 'repo';
 
